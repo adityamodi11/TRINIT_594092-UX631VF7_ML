@@ -7,6 +7,7 @@ TRINIT_ML03
 Main Objective - Given the dataset, predict what crop would be best for the farmer to grow based on the GEOLOCATION, SEASON, and PRICE.
 
 Google Drive Link to VIDEO EXPLANATION - https://drive.google.com/file/d/1tHkOQSd3P-TIHfLueVGyJGJZmaMVMk24/view?usp=sharing
+
 Google Drive Link to PRESENTATION - https://docs.google.com/presentation/d/19OneX9NSUs14RbZ8MxDkDoStTZC8UFQd/edit?usp=sharing&ouid=101257776169293568033&rtpof=true&sd=true
 
 Given references and datasets are - 
